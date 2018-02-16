@@ -1,0 +1,11 @@
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\bin\Debug\Exer1.exe.config
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\bin\Debug\Exer1.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\bin\Debug\Exer1.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.csprojResolveAssemblyReference.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.Form1.resources
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.Properties.Resources.resources
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.csproj.GenerateResource.Cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.csproj.CoreCompileInputs.cache
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.exe
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.pdb
+\\DBS-FS.student.dbs.ie\CTX.XA.Profiles.Data\10374746\Documents\B817119_AP\Exer1\Exer1\obj\Debug\Exer1.Calculator.resources
